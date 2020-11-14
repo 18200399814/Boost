@@ -1,5 +1,5 @@
 1.VS2017下编译和配置boost库：
   https://blog.csdn.net/tianse12/article/details/72654443
 
-2.boost库编译路径：
+2.boost库编译命令：
   b2.exe stage --toolset=msvc-14.1 address-model=64 --stagedir="E:\Github\Boost\boost_1_74_0\bin1.74.0\VC14.1" threading=multi --build-type=complete --build-dir="E:\Github\Boost\boost_1_74_0\build"
